@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 13.00
+# Visual Studio 2013
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gtest_main_nacl", "gtest_main_nacl.vcxproj", "{F698EF11-0878-9983-7DCD-5E33C35AE777}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gtest_nacl", "gtest_nacl.vcxproj", "{EC29CBBB-2FE5-28FB-65DC-BA37AFE1A7C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|Win32 = Debug|Win32
+		Release|x64 = Release|x64
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC29CBBB-2FE5-28FB-65DC-BA37AFE1A7C2}.Debug|x64.ActiveCfg = Debug|x64
+		{EC29CBBB-2FE5-28FB-65DC-BA37AFE1A7C2}.Debug|x64.Build.0 = Debug|x64
+		{EC29CBBB-2FE5-28FB-65DC-BA37AFE1A7C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC29CBBB-2FE5-28FB-65DC-BA37AFE1A7C2}.Debug|Win32.Build.0 = Debug|Win32
+		{EC29CBBB-2FE5-28FB-65DC-BA37AFE1A7C2}.Release|x64.ActiveCfg = Release|x64
+		{EC29CBBB-2FE5-28FB-65DC-BA37AFE1A7C2}.Release|x64.Build.0 = Release|x64
+		{EC29CBBB-2FE5-28FB-65DC-BA37AFE1A7C2}.Release|Win32.ActiveCfg = Release|Win32
+		{EC29CBBB-2FE5-28FB-65DC-BA37AFE1A7C2}.Release|Win32.Build.0 = Release|Win32
+		{F698EF11-0878-9983-7DCD-5E33C35AE777}.Debug|x64.ActiveCfg = Debug|x64
+		{F698EF11-0878-9983-7DCD-5E33C35AE777}.Debug|x64.Build.0 = Debug|x64
+		{F698EF11-0878-9983-7DCD-5E33C35AE777}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F698EF11-0878-9983-7DCD-5E33C35AE777}.Debug|Win32.Build.0 = Debug|Win32
+		{F698EF11-0878-9983-7DCD-5E33C35AE777}.Release|x64.ActiveCfg = Release|x64
+		{F698EF11-0878-9983-7DCD-5E33C35AE777}.Release|x64.Build.0 = Release|x64
+		{F698EF11-0878-9983-7DCD-5E33C35AE777}.Release|Win32.ActiveCfg = Release|Win32
+		{F698EF11-0878-9983-7DCD-5E33C35AE777}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
